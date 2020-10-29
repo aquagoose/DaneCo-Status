@@ -1,0 +1,17 @@
+{
+  "name": "daneco-status",
+  "version": "1.0.0",
+  "description": "Retrieves data about the DaneCo Servers",
+  "main": "dcs-main.js",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "gamedig": "^2.0.22"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ollie Robinson",
+  "license": "ISC"
+}
